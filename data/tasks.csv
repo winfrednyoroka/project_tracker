@@ -1,88 +1,88 @@
 ID,Module,Task,Owner,Start,Finish,Progress,Status,DependsOn,Notes,LastUpdated
-75150448,Triangulation,"Historical development of triangulation(Past, Present, Future)",,2026-02-10,2026-03-18,50,In Progress,,,2026-03-23 07:50:10.123085+00:00
-fa1f0074,Triangulation,Examples of MR-RCT triangulation,,2026-02-18,2026-03-18,50,In Progress,,,2026-03-23 07:50:10.123085+00:00
-5dce71ba,Triangulation,Summarise the triangulation gaps to highlight the specific objectives,,2026-02-27,2026-03-18,50,In Progress,,,2026-03-23 07:50:10.123085+00:00
-795b0031,Mendelian randomisation methods,Update MR methods and current limitations,,2026-03-03,2026-03-18,50,In Progress,,,2026-03-23 07:50:10.123085+00:00
-bec876ac,Submit to supervisors for review,Send to supervisors for feedback,,2026-03-18,2026-03-25,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-b724354b,Revision,Revise all this chapter in response to supervisor comments,,2026-03-26,2026-04-02,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-90c1e2d7,Submit to supervisors for review,Submit to supervisors for review,,2026-04-02,2026-04-09,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-9b8b64e9,Revision,Revise all this chapter in response to supervisor comments,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-bdc4d7e0,Chapter 1,Discuss with supervisors on completeness status of this chapter,,2026-04-20,2026-04-30,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-e74a39fb,Systematic review,"Search for MR studies in 3 databases (Embase, MEDLINE and PubMed)",,2026-01-29,2026-03-04,100,Done,,Searched these three databases and retrieved 3075 records.,2026-03-23 07:50:10.123085+00:00
-8ab1e73f,Protocol Dev,Develop full systematic review protocol,,2026-02-11,2026-03-11,100,Done,,,2026-03-23 07:50:10.123085+00:00
-a4a05cf8,Protocol Dev,Publish summary of the protocol in Prospero (Has to happen before data extraction begins),,2026-03-13,2026-03-14,100,Done,,Started the registration process but am waiting on final comments for full protocol to update Prospero,2026-03-23 07:50:10.123085+00:00
-771f2cd6,Protocol Dev,Publish full systematic review protocol in Wellcome Open Research,,2026-03-14,2026-03-15,100,Done,,,2026-03-23 07:50:10.123085+00:00
-0ad94f84,Screening,De-duplication and set up in Rayyan for analysis,,2026-02-18,2026-03-06,100,Done,,,2026-03-23 07:50:10.123085+00:00
-fcf357ac,Screening by title/abstract,Pilot test 100 papers ,,2026-02-20,2026-03-30,100,Done,,Had conflict over 3 papers but we were able to resolve them over a discussion.,2026-03-23 07:50:10.123085+00:00
-f83d1381,Screening by title/abstract,Screen all records by title/abstract,,2026-02-23,2026-03-30,70,In Progress,,,2026-03-23 07:50:10.123085+00:00
-269de86c,Screening by title/abstract,Conflict resolution,,2026-03-30,2026-04-03,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-e6c8a229,Screening full text,Find full papers for all included papers and upload in Rayyan,,2026-03-31,2026-04-03,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-3f4152a5,Screening full text,Screen full text of all the included records ,,2026-04-01,2026-04-15,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-06898025,Screening full text,Conflict resolution,,2026-04-16,2026-04-17,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-f6914514,Data extraction,Develop and test data extraction form,,2026-04-01,2026-04-08,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-16fe4ce5,Data extraction,Perform data extraction,,2026-04-17,2026-04-28,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-bd7d5cf0,Risk of bias assessment,Develop risk of bias plan and forms with the help of Julian,,2026-04-01,2026-04-15,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-a482838d,Risk of bias assessment,Perform risk of bias assessment,,2026-04-28,2026-05-12,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-ff693c8d,Data synthesis,Perform data synthesis (meta-analysis /narrative synthesis),,2026-03-30,2026-04-12,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-01bdd30d,Data synthesis,Risk of bias visualisation,,2026-04-17,2026-04-24,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-e5d002a4,Data synthesis,Perform sensitivity analysis,,2026-04-24,2026-04-30,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-8d1db50c,Writing,Write the manuscript,,2026-03-14,2026-05-10,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-12fb96d1,Submit to supervisors for review,Send to supervisors for review,,2026-05-11,2026-05-18,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-c595add7,Revision,Revise this manuscript in response to supervisors comments,,2026-05-18,2026-05-24,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-b9e263d0,Submit to supervisors for review,Send to supervisors for review,,2026-05-25,2026-06-01,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-3d2a7b40,Revision,Revise this manuscript in response to supervisors comments,,2026-06-01,2026-06-07,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-c5472f9d,Submit to Wellcome Open Research,Discuss with co-authors and submit,,2026-06-08,2026-06-14,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-f0de3250,Chapter 2  integrated thesis chapter,,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-ace9644e,Search terms and identification of relevant SRs,Develop search terms for published systematic reviews of BS &GLP1Rs,,2026-02-24,2026-03-03,100,Done,,,2026-03-23 07:50:10.123085+00:00
-faabc425,Search terms and identification of relevant SRs,Discuss the search terms with supervisors (GLP1Rs),,2026-03-17,2026-03-28,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-a33162f0,Search terms and identification of relevant SRs,"Search three databases (Cochrane, Embase and MEDLINE)",,2026-02-27,2026-03-07,100,Done,,,2026-03-23 07:50:10.123085+00:00
-3eb98482,Search terms and identification of relevant SRs,Identify a recent systematic review where both BMI and BP are reported (baseline and end of study duration),,2026-03-02,2026-03-28,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-871751d2,Protocol and Analysis Plan development,Develop full protocol with input from supervisors,,2026-03-16,2026-03-30,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-48d34f11,Protocol and Analysis Plan development,Publish full protocol (Journal to be determined),,2026-03-31,2026-04-06,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-f4673dba,Data extraction,Develop and test data extraction form,,2026-04-01,2026-04-01,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-1f8fad86,Data extraction,Perform Data extraction (second reviewer to confirm the extracted data),,2026-04-10,2026-04-24,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-44abbcd1,Risk of bias assessment,Develop risk of bias plan and forms with the help of Julian,,2026-04-15,2026-04-22,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-ab88e6cb,Risk of bias assessment,Perform risk of bias assessment,,2026-04-27,2026-05-15,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-4483f3bf,Data synthesis,Test randomisation as an IV and assess any imbalance at baseline - Integration of Chapter 5,,2026-04-30,2026-05-15,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-12b9a82a,Data synthesis,Perform IV analysis on RCTs (meta-analysis where possible),,2026-04-27,2026-05-22,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-8ec13e09,Data synthesis,Risk of bias visualisation,,2026-05-15,2026-05-22,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-77b95f82,Data synthesis,Perform sensitivity analysis,,2026-05-15,2026-05-25,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-cb57550a,Writing,Write the manuscript,,2026-04-06,2026-06-01,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-4e773f41,Submit to supervisors for review,Send to supervisors for review,,2026-06-02,2026-06-09,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-222174d7,Revision,Revise this manuscript in response to supervisors comments,,2026-06-09,2026-06-16,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-a7cdbef3,Submit to supervisors for review,Send to supervisors for review,,2026-06-16,2026-06-23,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-90124fc9,Revision,Revise this manuscript in response to supervisors comments,,2026-06-23,2026-06-30,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-5569eb75,Submit to a journal (To be determined),Discuss with co-authors and submit,,2026-07-01,2026-07-08,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-0950669e,Chapter 3  integrated thesis chapter,,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-3c920413,Research objectives,Develop clear objectives for this chapter (from chapter 1),,2026-04-10,2026-04-30,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-e4bf2850,Protocol and Analysis Plan development,Develop full analyses protocol,,2026-04-10,2026-05-15,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-d14a80bd,Protocol and Analysis Plan development,Publish full protocol (Journal to be determined),,2026-05-15,2026-05-22,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-c9266d9e,Data synthesis ,Qualitative and quantitative triangulation,,2026-06-01,2026-07-31,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-996cab96,Data synthesis,Visualisation and bias adjustment,,2026-06-01,2026-07-31,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-0c1f0052,Data synthesis,Reflect on challenges and opportunities of triangulating MR and RCT with supervisors,,2026-07-15,2026-07-31,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-df739da4,Writing,Write the manuscript (Discuss whether we should split the manuscript into two or one big manuscript),,2026-05-29,2026-08-15,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-3c2f2d05,Submit to supervisors for review,Send to supervisors for review,,2026-08-17,2026-08-24,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-6079a5ed,Revision,Revise this manuscript in response to supervisors comments,,2026-08-24,2026-09-01,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-c0977fc3,Submit to supervisors for review,Send to supervisors for review,,2026-09-01,2026-09-08,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-d5bb3d20,Revision,Revise this manuscript in response to supervisors comments,,2026-09-08,2026-09-15,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-72d95f72,Submit to a journal (IJE),Discuss with co-authors and submit to IJE,,2026-09-15,2026-09-22,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-8f79c774,Chapter 4  integrated thesis chapter,,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-9634931c,Writing,Write the discussion,,2026-06-15,2026-09-15,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-f646a0df,Submit to supervisors for review,Send to supervisors for review,,2026-09-15,2026-09-22,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-a2a8996a,Revision,Revise the discussion in response to supervisors comments,,2026-09-22,2026-09-29,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-949f7598,Submit to supervisors for review,Send to supervisors for review,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-8c11b1e3,Full Thesis,Combine all the thesis chapters,,2026-06-22,2026-09-29,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-ad2ea459,Submit to Supervisors,Submit to supervisors for review,,2026-09-29,2026-10-06,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-8dce7960,Revision,Revise the document in response to supervisors comments,,2026-10-06,2026-10-13,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-228c4164,Submit to supervisors for review,Send to supervisors for review,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-dc9250d3,Revision,Revise the document in response to supervisors comments,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-b45870f9,,Discuss with supervisors on completeness and readines to submit,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-7976d644,Turnitin check and reporting,Evaluate the report that it aligns with UoB requirements with supervisors inputs,,2026-10-13,2026-10-14,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-e59c3588,Submit ,Submit to PGR exams office,,2026-10-14,2026-10-16,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-d1e5378d,,,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-8911ccdf,Report submission,Writing and report submission,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-24dac5fe,Date booking,Book a date by the 30th of March,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-1220d5d6,Annual review with Kate and Sarah,Actual review,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-b8dd64dd,Report submission,Writing and report submission,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-aedaf0b3,Date booking,Book a date by the 30th August,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
-ff86e45f,Annual review with Kate and Sarah,Actual review,,,,0,Not Started,,,2026-03-23 07:50:10.123085+00:00
+75150448,Triangulation,"Historical development of triangulation(Past, Present, Future)",,2026-02-10,2026-03-18,50,In Progress,,,2026-03-23 07:51:44.387429+00:00
+fa1f0074,Triangulation,Examples of MR-RCT triangulation,,2026-02-18,2026-03-18,50,In Progress,,,2026-03-23 07:51:44.387429+00:00
+5dce71ba,Triangulation,Summarise the triangulation gaps to highlight the specific objectives,,2026-02-27,2026-03-18,50,In Progress,,,2026-03-23 07:51:44.387429+00:00
+795b0031,Mendelian randomisation methods,Update MR methods and current limitations,,2026-03-03,2026-03-18,50,In Progress,,,2026-03-23 07:51:44.387429+00:00
+bec876ac,Submit to supervisors for review,Send to supervisors for feedback,,2026-03-18,2026-03-25,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+b724354b,Revision,Revise all this chapter in response to supervisor comments,,2026-03-26,2026-04-02,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+90c1e2d7,Submit to supervisors for review,Submit to supervisors for review,,2026-04-02,2026-04-09,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+9b8b64e9,Revision,Revise all this chapter in response to supervisor comments,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+bdc4d7e0,Chapter 1,Discuss with supervisors on completeness status of this chapter,,2026-04-20,2026-04-30,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+e74a39fb,Systematic review,"Search for MR studies in 3 databases (Embase, MEDLINE and PubMed)",,2026-01-29,2026-03-04,100,Done,,Searched these three databases and retrieved 3075 records.,2026-03-23 07:51:44.387429+00:00
+8ab1e73f,Protocol Dev,Develop full systematic review protocol,,2026-02-11,2026-03-11,100,Done,,,2026-03-23 07:51:44.387429+00:00
+a4a05cf8,Protocol Dev,Publish summary of the protocol in Prospero (Has to happen before data extraction begins),,2026-03-13,2026-03-14,100,Done,,Started the registration process but am waiting on final comments for full protocol to update Prospero,2026-03-23 07:51:44.387429+00:00
+771f2cd6,Protocol Dev,Publish full systematic review protocol in Wellcome Open Research,,2026-03-14,2026-03-15,100,Done,,,2026-03-23 07:51:44.387429+00:00
+0ad94f84,Screening,De-duplication and set up in Rayyan for analysis,,2026-02-18,2026-03-06,100,Done,,,2026-03-23 07:51:44.387429+00:00
+fcf357ac,Screening by title/abstract,Pilot test 100 papers ,,2026-02-20,2026-03-30,100,Done,,Had conflict over 3 papers but we were able to resolve them over a discussion.,2026-03-23 07:51:44.387429+00:00
+f83d1381,Screening by title/abstract,Screen all records by title/abstract,,2026-02-23,2026-03-30,70,In Progress,,,2026-03-23 07:51:44.387429+00:00
+269de86c,Screening by title/abstract,Conflict resolution,,2026-03-30,2026-04-03,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+e6c8a229,Screening full text,Find full papers for all included papers and upload in Rayyan,,2026-03-31,2026-04-03,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+3f4152a5,Screening full text,Screen full text of all the included records ,,2026-04-01,2026-04-15,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+06898025,Screening full text,Conflict resolution,,2026-04-16,2026-04-17,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+f6914514,Data extraction,Develop and test data extraction form,,2026-04-01,2026-04-08,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+16fe4ce5,Data extraction,Perform data extraction,,2026-04-17,2026-04-28,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+bd7d5cf0,Risk of bias assessment,Develop risk of bias plan and forms with the help of Julian,,2026-04-01,2026-04-15,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+a482838d,Risk of bias assessment,Perform risk of bias assessment,,2026-04-28,2026-05-12,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+ff693c8d,Data synthesis,Perform data synthesis (meta-analysis /narrative synthesis),,2026-03-30,2026-04-12,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+01bdd30d,Data synthesis,Risk of bias visualisation,,2026-04-17,2026-04-24,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+e5d002a4,Data synthesis,Perform sensitivity analysis,,2026-04-24,2026-04-30,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+8d1db50c,Writing,Write the manuscript,,2026-03-14,2026-05-10,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+12fb96d1,Submit to supervisors for review,Send to supervisors for review,,2026-05-11,2026-05-18,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+c595add7,Revision,Revise this manuscript in response to supervisors comments,,2026-05-18,2026-05-24,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+b9e263d0,Submit to supervisors for review,Send to supervisors for review,,2026-05-25,2026-06-01,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+3d2a7b40,Revision,Revise this manuscript in response to supervisors comments,,2026-06-01,2026-06-07,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+c5472f9d,Submit to Wellcome Open Research,Discuss with co-authors and submit,,2026-06-08,2026-06-14,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+f0de3250,Chapter 2  integrated thesis chapter,,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+ace9644e,Search terms and identification of relevant SRs,Develop search terms for published systematic reviews of BS &GLP1Rs,,2026-02-24,2026-03-03,100,Done,,,2026-03-23 07:51:44.387429+00:00
+faabc425,Search terms and identification of relevant SRs,Discuss the search terms with supervisors (GLP1Rs),,2026-03-17,2026-03-28,50,In Progress,,,2026-03-23 07:51:44.387429+00:00
+a33162f0,Search terms and identification of relevant SRs,"Search three databases (Cochrane, Embase and MEDLINE)",,2026-02-27,2026-03-28,100,Done,,,2026-03-23 07:51:44.387429+00:00
+3eb98482,Search terms and identification of relevant SRs,Identify a recent systematic review where both BMI and BP are reported (baseline and end of study duration),,2026-03-02,2026-03-28,25,In Progress,,,2026-03-23 07:51:44.387429+00:00
+871751d2,Protocol and Analysis Plan development,Develop full protocol with input from supervisors,,2026-03-16,2026-03-30,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+48d34f11,Protocol and Analysis Plan development,Publish full protocol (Journal to be determined),,2026-03-31,2026-04-06,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+f4673dba,Data extraction,Develop and test data extraction form,,2026-04-01,2026-04-01,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+1f8fad86,Data extraction,Perform Data extraction (second reviewer to confirm the extracted data),,2026-04-10,2026-04-24,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+44abbcd1,Risk of bias assessment,Develop risk of bias plan and forms with the help of Julian,,2026-04-15,2026-04-22,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+ab88e6cb,Risk of bias assessment,Perform risk of bias assessment,,2026-04-27,2026-05-15,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+4483f3bf,Data synthesis,Test randomisation as an IV and assess any imbalance at baseline - Integration of Chapter 5,,2026-04-30,2026-05-15,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+12b9a82a,Data synthesis,Perform IV analysis on RCTs (meta-analysis where possible),,2026-04-27,2026-05-22,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+8ec13e09,Data synthesis,Risk of bias visualisation,,2026-05-15,2026-05-22,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+77b95f82,Data synthesis,Perform sensitivity analysis,,2026-05-15,2026-05-25,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+cb57550a,Writing,Write the manuscript,,2026-04-06,2026-06-01,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+4e773f41,Submit to supervisors for review,Send to supervisors for review,,2026-06-02,2026-06-09,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+222174d7,Revision,Revise this manuscript in response to supervisors comments,,2026-06-09,2026-06-16,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+a7cdbef3,Submit to supervisors for review,Send to supervisors for review,,2026-06-16,2026-06-23,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+90124fc9,Revision,Revise this manuscript in response to supervisors comments,,2026-06-23,2026-06-30,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+5569eb75,Submit to a journal (To be determined),Discuss with co-authors and submit,,2026-07-01,2026-07-08,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+0950669e,Chapter 3  integrated thesis chapter,,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+3c920413,Research objectives,Develop clear objectives for this chapter (from chapter 1),,2026-04-10,2026-04-30,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+e4bf2850,Protocol and Analysis Plan development,Develop full analyses protocol,,2026-04-10,2026-05-15,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+d14a80bd,Protocol and Analysis Plan development,Publish full protocol (Journal to be determined),,2026-05-15,2026-05-22,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+c9266d9e,Data synthesis ,Qualitative and quantitative triangulation,,2026-06-01,2026-07-31,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+996cab96,Data synthesis,Visualisation and bias adjustment,,2026-06-01,2026-07-31,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+0c1f0052,Data synthesis,Reflect on challenges and opportunities of triangulating MR and RCT with supervisors,,2026-07-15,2026-07-31,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+df739da4,Writing,Write the manuscript (Discuss whether we should split the manuscript into two or one big manuscript),,2026-05-29,2026-08-15,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+3c2f2d05,Submit to supervisors for review,Send to supervisors for review,,2026-08-17,2026-08-24,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+6079a5ed,Revision,Revise this manuscript in response to supervisors comments,,2026-08-24,2026-09-01,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+c0977fc3,Submit to supervisors for review,Send to supervisors for review,,2026-09-01,2026-09-08,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+d5bb3d20,Revision,Revise this manuscript in response to supervisors comments,,2026-09-08,2026-09-15,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+72d95f72,Submit to a journal (IJE),Discuss with co-authors and submit to IJE,,2026-09-15,2026-09-22,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+8f79c774,Chapter 4  integrated thesis chapter,,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+9634931c,Writing,Write the discussion,,2026-06-15,2026-09-15,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+f646a0df,Submit to supervisors for review,Send to supervisors for review,,2026-09-15,2026-09-22,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+a2a8996a,Revision,Revise the discussion in response to supervisors comments,,2026-09-22,2026-09-29,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+949f7598,Submit to supervisors for review,Send to supervisors for review,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+8c11b1e3,Full Thesis,Combine all the thesis chapters,,2026-06-22,2026-09-29,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+ad2ea459,Submit to Supervisors,Submit to supervisors for review,,2026-09-29,2026-10-06,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+8dce7960,Revision,Revise the document in response to supervisors comments,,2026-10-06,2026-10-13,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+228c4164,Submit to supervisors for review,Send to supervisors for review,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+dc9250d3,Revision,Revise the document in response to supervisors comments,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+b45870f9,,Discuss with supervisors on completeness and readines to submit,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+7976d644,Turnitin check and reporting,Evaluate the report that it aligns with UoB requirements with supervisors inputs,,2026-10-13,2026-10-14,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+e59c3588,Submit ,Submit to PGR exams office,,2026-10-14,2026-10-16,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+d1e5378d,,,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+8911ccdf,Report submission,Writing and report submission,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+24dac5fe,Date booking,Book a date by the 30th of March,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+1220d5d6,Annual review with Kate and Sarah,Actual review,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+b8dd64dd,Report submission,Writing and report submission,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+aedaf0b3,Date booking,Book a date by the 30th August,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
+ff86e45f,Annual review with Kate and Sarah,Actual review,,,,0,Not Started,,,2026-03-23 07:51:44.387429+00:00
